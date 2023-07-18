@@ -1,0 +1,15 @@
+/Users/aligok/Projects/NumberGuesser/NumberGuesser/bin/Debug/net7.0/NumberGuesser
+/Users/aligok/Projects/NumberGuesser/NumberGuesser/bin/Debug/net7.0/NumberGuesser.deps.json
+/Users/aligok/Projects/NumberGuesser/NumberGuesser/bin/Debug/net7.0/NumberGuesser.runtimeconfig.json
+/Users/aligok/Projects/NumberGuesser/NumberGuesser/bin/Debug/net7.0/NumberGuesser.dll
+/Users/aligok/Projects/NumberGuesser/NumberGuesser/bin/Debug/net7.0/NumberGuesser.pdb
+/Users/aligok/Projects/NumberGuesser/NumberGuesser/obj/Debug/net7.0/NumberGuesser.csproj.AssemblyReference.cache
+/Users/aligok/Projects/NumberGuesser/NumberGuesser/obj/Debug/net7.0/NumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aligok/Projects/NumberGuesser/NumberGuesser/obj/Debug/net7.0/NumberGuesser.AssemblyInfoInputs.cache
+/Users/aligok/Projects/NumberGuesser/NumberGuesser/obj/Debug/net7.0/NumberGuesser.AssemblyInfo.cs
+/Users/aligok/Projects/NumberGuesser/NumberGuesser/obj/Debug/net7.0/NumberGuesser.csproj.CoreCompileInputs.cache
+/Users/aligok/Projects/NumberGuesser/NumberGuesser/obj/Debug/net7.0/NumberGuesser.dll
+/Users/aligok/Projects/NumberGuesser/NumberGuesser/obj/Debug/net7.0/refint/NumberGuesser.dll
+/Users/aligok/Projects/NumberGuesser/NumberGuesser/obj/Debug/net7.0/NumberGuesser.pdb
+/Users/aligok/Projects/NumberGuesser/NumberGuesser/obj/Debug/net7.0/NumberGuesser.genruntimeconfig.cache
+/Users/aligok/Projects/NumberGuesser/NumberGuesser/obj/Debug/net7.0/ref/NumberGuesser.dll
